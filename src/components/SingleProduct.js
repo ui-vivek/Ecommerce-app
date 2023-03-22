@@ -90,7 +90,7 @@ function Product(props) {
               <h3>{item.title}</h3>
               <p>Price: {item.price} $</p>
               <p>Rating :{item.rating}</p>
-              <Link to={`/details/${item.id}`}> Details </Link>
+              <Link className="btn btn-primary" to={`/details/${item.id}`}> Details </Link>
               <button className="btn btn-info" onClick={() => Setedit(true)}>
                 Edit
               </button>
