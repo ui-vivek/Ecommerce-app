@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Estore-react-reduxtoolkit/static/css/main.4eca978a.css",
+    "main.js": "/Estore-react-reduxtoolkit/static/js/main.a22aa5bf.js",
+    "static/media/bg.jpg": "/Estore-react-reduxtoolkit/static/media/bg.0385f84d7fc8363966f5.jpg",
+    "index.html": "/Estore-react-reduxtoolkit/index.html",
+    "main.4eca978a.css.map": "/Estore-react-reduxtoolkit/static/css/main.4eca978a.css.map",
+    "main.a22aa5bf.js.map": "/Estore-react-reduxtoolkit/static/js/main.a22aa5bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4eca978a.css",
+    "static/js/main.a22aa5bf.js"
+  ]
+}
